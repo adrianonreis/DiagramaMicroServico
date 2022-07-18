@@ -1,0 +1,21 @@
+
+microsserviços 
+
+  São vários pequenas aplicações, onde cada uma é responsável por um serviço determinado.
+  Podemos utilizar várias linguagens de programação, sendo possível escolher a que melhor 
+se adequa ao requisito.
+
+  Podemos reaproveitar códigos mais facilmente;
+  refatorar mais facilmente;
+  testes automatizados mais facilmente;
+  gerar menos bugs e, caso haja, serão mais fáceis de isolar e resolver.
+  
+  Temos uma base de código pequena onde uma equipe pequena de desenvolvedores pode gerir.
+  Por serem independentes a implementação fica mais fácil.
+  Maior facilidade em realizar manuteção
+  Podem ser implantados de forma independente;
+
+  Se um serviço parar, os demais podem continuar funcionando.
+  Uma das facilidades que eu particularmente acho interessante é de que cada serviço
+  pode ter sua própria base de dados, o que dá maior independência dos demais serviços.
+  
