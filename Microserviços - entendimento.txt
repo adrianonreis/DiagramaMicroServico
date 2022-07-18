@@ -1,10 +1,13 @@
 
-microsserviços 
-
+Microsserviços 
+  
   São vários pequenas aplicações, onde cada uma é responsável por um serviço determinado.
+  Em uma arquitetura de microsserviços cada uma dessas pequenas partes, é uma aplicação distinta;
+  Cada serviço tem uma responsabilidade definida e podemos saber o que cada serviço vai fazer exatamente.
+  
   Podemos utilizar várias linguagens de programação, sendo possível escolher a que melhor 
-se adequa ao requisito.
-
+  se adequa ao requisito.
+  
   Podemos reaproveitar códigos mais facilmente;
   refatorar mais facilmente;
   testes automatizados mais facilmente;
